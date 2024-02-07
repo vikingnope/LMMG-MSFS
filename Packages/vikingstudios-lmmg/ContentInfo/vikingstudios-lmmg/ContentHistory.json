@@ -1,0 +1,10 @@
+{
+  "package-name": "vikingstudios-lmmg",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "LMMG",
+      "revision": 1
+    }
+  ]
+}

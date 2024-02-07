@@ -1,0 +1,39 @@
+<AssetPackage Name="lmmg" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>LMMG Creation</Title>
+		<Manufacturer/>
+		<Creator>Vikingnope</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\lmmg\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\lmmg\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="lmmg">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="textures">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs\textures\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

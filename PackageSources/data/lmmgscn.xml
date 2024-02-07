@@ -1,0 +1,818 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Car01_Yellow-->
+	<SceneryObject groupIndex="70" lat="36.02681679323062" lon="14.27313209855798" alt="0.00000000000000" pitch="2.931640" bank="0.388187" heading="-172.439955" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0BDAA1CC-0EA6-4D46-BD1A-E99ABFC009B8}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: CarUtility01_Red-->
+	<SceneryObject groupIndex="75" lat="36.02683361000621" lon="14.27305023337960" alt="0.00000000000000" pitch="2.458916" bank="0.412400" heading="-170.462944" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0055641C-6990-49D3-A522-A842AC04D5B6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car_Pack_14C-->
+	<SceneryObject groupIndex="91" lat="36.02692963895042" lon="14.27316699465340" alt="0.00000000000000" pitch="3.893379" bank="0.510748" heading="-172.514787" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D9A60023-B3C6-442A-80DD-5615DA61FC73}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="23" lat="36.02646334248007" lon="14.27314679943148" alt="0.00000000000000" pitch="0.000423" bank="-0.000423" heading="109.690167" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="26" lat="36.02649391083504" lon="14.27316004528256" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="109.000018" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="28" lat="36.02652422447395" lon="14.27317291238839" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="109.000018" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="32" lat="36.02655992764445" lon="14.27286633661397" alt="0.00000000000000" pitch="0.000635" bank="-0.000635" heading="92.000176" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="33" lat="36.02656611991878" lon="14.27318988488867" alt="0.00000000000000" pitch="0.518193" bank="-1.505449" heading="108.993953" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="34" lat="36.02659159729053" lon="14.27292800481118" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="93.000095" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="35" lat="36.02659353736134" lon="14.27286762154458" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="92.000176" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 1" groupIndex="36" lat="36.02659679972679" lon="14.27320341876438" alt="0.00000000000000" pitch="0.867455" bank="-2.520053" heading="108.981085" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="37" lat="36.02662479996938" lon="14.27293032815796" alt="0.00000000000000" pitch="0.148966" bank="-2.839303" heading="93.001201" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="38" lat="36.02662610879110" lon="14.27286879314082" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="92.000176" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 2" groupIndex="39" lat="36.02662628415037" lon="14.27321587944852" alt="0.00000000000000" pitch="0.829629" bank="-2.410183" heading="108.983222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 3" groupIndex="42" lat="36.02665590170206" lon="14.27322860791330" alt="0.00000000000000" pitch="0.688367" bank="-1.999326" heading="108.988126" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="43" lat="36.02665893633436" lon="14.27293242814625" alt="0.00000000000000" pitch="0.140709" bank="-2.678493" heading="93.003551" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="44" lat="36.02665982726285" lon="14.27287027259220" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="92.000176" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 4" groupIndex="45" lat="36.02668634856490" lon="14.27324160681131" alt="0.00000000000000" pitch="0.916010" bank="-2.660659" heading="108.979739" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="47" lat="36.02669307705123" lon="14.27293443169864" alt="0.00000000000000" pitch="0.160257" bank="-3.055724" heading="92.998660" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="49" lat="36.02669436887784" lon="14.27287178889580" alt="0.00000000000000" pitch="0.089858" bank="-2.571587" heading="92.004082" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 5" groupIndex="50" lat="36.02671725261467" lon="14.27325447985121" alt="0.00000000000000" pitch="1.234427" bank="-3.587256" heading="108.963592" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="51" lat="36.02672665717270" lon="14.27293669677146" alt="0.00000000000000" pitch="0.173500" bank="-3.307758" heading="93.000484" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="52" lat="36.02672877453080" lon="14.27287365726613" alt="0.00000000000000" pitch="0.141795" bank="-4.042461" heading="92.008085" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 6" groupIndex="53" lat="36.02674832205358" lon="14.27326711002136" alt="0.00000000000000" pitch="1.184724" bank="-3.443146" heading="108.965307" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy)" groupIndex="55" lat="36.02675949489281" lon="14.27293871493945" alt="0.00000000000000" pitch="0.089667" bank="-1.707062" heading="93.008305" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="56" lat="36.02676171133989" lon="14.27287529146597" alt="0.00000000000000" pitch="0.128995" bank="-3.683897" heading="92.001835" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="58" lat="36.02676858958267" lon="14.27327669209111" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 7" groupIndex="59" lat="36.02677410410507" lon="14.27323741154061" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 8" groupIndex="61" lat="36.02677937533213" lon="14.27319944261453" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 9" groupIndex="62" lat="36.02678335758664" lon="14.27330308526715" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="109.000018" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 10" groupIndex="63" lat="36.02678545835707" lon="14.27315999563566" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 11" groupIndex="64" lat="36.02679059344266" lon="14.27312027458809" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy)" groupIndex="65" lat="36.02679219443462" lon="14.27294086188121" alt="0.00000000000000" pitch="0.234856" bank="-4.478514" heading="92.996243" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="66" lat="36.02679521027036" lon="14.27287682608507" alt="0.00000000000000" pitch="0.107063" bank="-3.064105" heading="92.005742" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 12" groupIndex="67" lat="36.02679640142668" lon="14.27307987695012" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 13" groupIndex="69" lat="36.02680217801370" lon="14.27304075168285" alt="0.00000000000000" pitch="0.000567" bank="-0.000567" heading="-169.999993" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 14" groupIndex="72" lat="36.02682202970909" lon="14.27302275940890" alt="0.00000000000000" pitch="0.555738" bank="-5.280419" heading="95.979895" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy)" groupIndex="73" lat="36.02682400869723" lon="14.27294316926102" alt="0.00000000000000" pitch="0.115287" bank="-2.196766" heading="93.001727" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="74" lat="36.02682847052862" lon="14.27287827194881" alt="0.00000000000000" pitch="0.126229" bank="-3.605110" heading="92.003113" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 15" groupIndex="76" lat="36.02685205911458" lon="14.27333316288096" alt="0.00000000000000" pitch="0.931358" bank="-2.705779" heading="108.978960" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 16" groupIndex="77" lat="36.02685360564774" lon="14.27302700169401" alt="0.00000000000000" pitch="0.426702" bank="-4.051784" heading="95.987531" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy)" groupIndex="78" lat="36.02685625946204" lon="14.27294558132735" alt="0.00000000000000" pitch="0.189114" bank="-3.600480" heading="93.000942" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="79" lat="36.02686144924854" lon="14.27287961570472" alt="0.00000000000000" pitch="0.151671" bank="-4.312281" heading="92.012470" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 17" groupIndex="81" lat="36.02688236307281" lon="14.27334574815773" alt="0.00000000000000" pitch="1.199333" bank="-3.485603" heading="108.965232" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 18" groupIndex="82" lat="36.02688538134196" lon="14.27303072737893" alt="0.00000000000000" pitch="0.436941" bank="-4.147127" heading="95.986841" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy)" groupIndex="83" lat="36.02688873367678" lon="14.27294755441103" alt="0.00000000000000" pitch="0.198267" bank="-3.780045" heading="93.002246" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="84" lat="36.02689440440180" lon="14.27288148582185" alt="0.00000000000000" pitch="0.212658" bank="-6.089278" heading="91.994001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 19" groupIndex="87" lat="36.02691343155171" lon="14.27335896608276" alt="0.00000000000000" pitch="1.274028" bank="-3.702830" heading="108.960075" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 20" groupIndex="88" lat="36.02691579802429" lon="14.27303443611319" alt="0.00000000000000" pitch="0.520699" bank="-4.948240" heading="95.979765" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy) (copy)" groupIndex="89" lat="36.02692074522925" lon="14.27294956406925" alt="0.00000000000000" pitch="0.190255" bank="-3.628285" heading="93.001468" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="90" lat="36.02692695946210" lon="14.27288306192327" alt="0.00000000000000" pitch="0.199865" bank="-5.716718" heading="91.997143" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 21" groupIndex="92" lat="36.02693421258245" lon="14.27303755398546" alt="0.00000000000000" pitch="0.481323" bank="-4.571637" heading="95.983439" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin 22" groupIndex="93" lat="36.02693637466547" lon="14.27336948307620" alt="0.00000000000000" pitch="0.892152" bank="-2.591811" heading="108.980422" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy) (copy) (copy)" groupIndex="94" lat="36.02695537530978" lon="14.27295203410367" alt="0.00000000000000" pitch="0.288336" bank="-5.502838" heading="92.992124" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="95" lat="36.02695846024830" lon="14.27288476898960" alt="0.00000000000000" pitch="0.159205" bank="-4.533613" heading="92.009642" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy) (copy) (copy) (copy)" groupIndex="98" lat="36.02698893255218" lon="14.27295406749001" alt="0.00000000000000" pitch="0.198424" bank="-3.782395" heading="93.000942" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="99" lat="36.02699210035378" lon="14.27288598621078" alt="0.00000000000000" pitch="0.148584" bank="-4.237149" heading="92.014123" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject displayName="Cobblestone_Wall_Large_Thin (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" groupIndex="105" lat="36.02701652277842" lon="14.27295611748535" alt="0.00000000000000" pitch="0.311450" bank="-5.949867" heading="92.986428" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Large_Thin-->
+	<SceneryObject groupIndex="108" lat="36.02702001389471" lon="14.27288660148903" alt="0.00000000000000" pitch="0.110096" bank="-3.156907" heading="92.014123" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E48251E-A4D8-45C5-B809-B9501E9794BF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cobblestone_Wall_Small_Thin-->
+	<SceneryObject groupIndex="57" lat="36.02676261586043" lon="14.27327354608415" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="109.000045" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4B0B5264-E589-427B-BADC-D9B7FC8B0642}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 23" lat="36.02629246302576" lon="14.27308273249070" alt="0.00000000000000" pitch="0.000663" bank="-0.000663" heading="105.268692" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="13" lat="36.02635970962465" lon="14.27217255370176" alt="0.03000000000000" pitch="-0.157709" bank="3.000003" heading="-173.260644" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="14" lat="36.02636380862090" lon="14.27212604241856" alt="0.00000000000000" pitch="-0.180911" bank="1.530222" heading="-173.261217" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 24" groupIndex="18" lat="36.02639433994048" lon="14.27311861048636" alt="0.00000000000000" pitch="0.000061" bank="-0.900007" heading="109.000066" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 25" groupIndex="22" lat="36.02642999290961" lon="14.27313349576214" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="109.000018" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="96" lat="36.02697058708156" lon="14.27304681549889" alt="0.00000000000000" pitch="0.689009" bank="-5.405302" heading="97.242025" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="103" lat="36.02700857649353" lon="14.27305259039977" alt="0.00000000000000" pitch="0.532140" bank="-4.165439" heading="97.257905" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="104" lat="36.02701401315908" lon="14.27340613355033" alt="0.00000000000000" pitch="0.853576" bank="-2.411467" heading="109.480337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="109" lat="36.02702228677501" lon="14.27309744539215" alt="0.00000000000000" pitch="0.000171" bank="-0.000171" heading="-173.607371" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="110" lat="36.02702379125501" lon="14.27307922192053" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-173.607371" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="111" lat="36.02703521085816" lon="14.27341517878085" alt="0.00000000000000" pitch="1.240315" bank="-3.504727" heading="109.461185" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="116" lat="36.02714345654991" lon="14.27030119330493" alt="0.05000000000000" pitch="0.064067" bank="-2.000002" heading="6.499792" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="117" lat="36.02714740424422" lon="14.27025510939934" alt="0.00000000000000" pitch="0.000041" bank="-1.000001" heading="6.500011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 26" groupIndex="118" lat="36.02716222972920" lon="14.27344767408258" alt="0.00000000000000" pitch="0.000307" bank="2.000002" heading="-169.545909" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="120" lat="36.02721760724651" lon="14.27346925721131" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="122" lat="36.02723656769604" lon="14.27349957762734" alt="0.00000000000000" pitch="0.781176" bank="-4.000011" heading="107.064773" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="126" lat="36.02748852306696" lon="14.27359370788736" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="107.064725" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="127" lat="36.02752471304704" lon="14.27360739483747" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="107.064725" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="129" lat="36.02766950407605" lon="14.27366046489979" alt="0.00000000000000" pitch="0.000335" bank="-0.000342" heading="103.582599" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="130" lat="36.02770641817077" lon="14.27366933788640" alt="0.00000000000000" pitch="0.000376" bank="-0.000362" heading="99.244336" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="133" lat="36.02774347682237" lon="14.27367794705290" alt="0.00000000000000" pitch="0.000307" bank="-0.000307" heading="101.754314" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="136" lat="36.02777840405339" lon="14.27368448652972" alt="0.00000000000000" pitch="0.000307" bank="-0.000307" heading="-84.760189" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 27" groupIndex="137" lat="36.02778439831263" lon="14.27368514604146" alt="0.00000000000000" pitch="0.000307" bank="-0.000307" heading="-84.760189" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="141" lat="36.02788309515622" lon="14.27034882387370" alt="0.00000000000000" pitch="0.000027" bank="-1.000001" heading="97.359729" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject displayName="FenceMetallic_1m 28" groupIndex="145" lat="36.02792066048153" lon="14.27035492119955" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="97.359675" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject groupIndex="148" lat="36.02802383312055" lon="14.27365432171241" alt="0.10000000000000" pitch="0.000041" bank="2.000002" heading="160.044337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="12" lat="36.02635551796543" lon="14.27221948920307" alt="0.00000000000000" pitch="-0.190924" bank="1.609193" heading="-173.261518" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="101" lat="36.02700564574699" lon="14.27328414179282" alt="0.00000000000000" pitch="0.000669" bank="1.000001" heading="-173.607371" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject displayName="FenceMetallic_3m 29" groupIndex="106" lat="36.02701822518069" lon="14.27314408968361" alt="0.00000000000000" pitch="0.000710" bank="0.500011" heading="-173.607371" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="113" lat="36.02707108162776" lon="14.27343039060699" alt="0.00000000000000" pitch="1.152622" bank="-3.255186" heading="109.466889" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="123" lat="36.02727305314684" lon="14.27351338568504" alt="0.00000000000000" pitch="1.307346" bank="-4.259846" heading="107.022617" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="124" lat="36.02738120791806" lon="14.27355344052586" alt="0.00000000000000" pitch="0.987775" bank="-3.218085" heading="107.038572" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="128" lat="36.02756063407263" lon="14.27362070293391" alt="0.00000000000000" pitch="0.000683" bank="-0.000683" heading="107.079478" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="135" lat="36.02777036679998" lon="14.27033082613331" alt="0.00000000000000" pitch="0.124439" bank="-1.900002" heading="97.361594" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="143" lat="36.02789673380345" lon="14.27368231248529" alt="0.00000000000000" pitch="0.000150" bank="-0.699999" heading="-92.500063" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject groupIndex="147" lat="36.02801013619381" lon="14.27367602756161" alt="0.00000000000000" pitch="0.000683" bank="-0.699999" heading="-92.735309" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject groupIndex="4" lat="36.02630701676787" lon="14.27272957539073" alt="0.10000000000000" pitch="-0.059778" bank="0.508801" heading="-173.259141" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 30" groupIndex="10" lat="36.02634243818542" lon="14.27235873119253" alt="0.00000000000000" pitch="-0.044171" bank="0.367451" heading="-173.258936" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject groupIndex="17" lat="36.02638628444905" lon="14.27210445169287" alt="0.00000000000000" pitch="0.004535" bank="-0.029500" heading="96.167807" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 31" groupIndex="46" lat="36.02668905081066" lon="14.27214442611802" alt="0.09999971523555" pitch="0.005635" bank="0.060953" heading="96.195367" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 32" groupIndex="97" lat="36.02697216374765" lon="14.27215710527670" alt="0.00000000000000" pitch="1.641943" bank="0.105062" heading="6.503973" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 33" groupIndex="102" lat="36.02700659157793" lon="14.27178554009843" alt="0.00000000000000" pitch="-0.064416" bank="0.082686" heading="6.499929" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 34" groupIndex="112" lat="36.02704087213115" lon="14.27141382863698" alt="0.00000000000000" pitch="0.001407" bank="-0.001407" heading="6.500004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 35" groupIndex="114" lat="36.02707479317652" lon="14.27104300057536" alt="0.00000000000000" pitch="-0.124924" bank="0.500011" heading="6.498918" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 36" groupIndex="115" lat="36.02710910914234" lon="14.27067198235982" alt="0.00000000000000" pitch="-0.024329" bank="0.229173" heading="6.500393" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject groupIndex="119" lat="36.02716914479725" lon="14.27023526425202" alt="0.00000000000000" pitch="-0.015102" bank="0.135245" heading="97.371238" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 37" groupIndex="125" lat="36.02746979222399" lon="14.27028299619323" alt="0.00000000000000" pitch="0.058125" bank="-0.443648" heading="97.362557" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 38" groupIndex="131" lat="36.02771292918271" lon="14.27260129736749" alt="0.00000000000000" pitch="-0.284969" bank="-0.790963" heading="160.046359" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 39" groupIndex="132" lat="36.02773146579620" lon="14.27223091396431" alt="0.00000000000000" pitch="-0.027034" bank="0.526539" heading="-174.769351" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 40" groupIndex="134" lat="36.02775897950580" lon="14.27185933194268" alt="0.00000000000000" pitch="-0.071949" bank="0.172046" heading="-174.769733" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 41" groupIndex="138" lat="36.02780187319832" lon="14.27148944276040" alt="0.00000000000000" pitch="-0.028304" bank="0.286581" heading="-171.597984" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 42" groupIndex="139" lat="36.02781601964827" lon="14.27295231966494" alt="0.10173634634245" pitch="-0.372969" bank="-1.033763" heading="160.047684" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 43" groupIndex="140" lat="36.02784615655433" lon="14.27112097536220" alt="0.00000000000000" pitch="0.013223" bank="-0.083451" heading="-171.597984" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 44" groupIndex="142" lat="36.02789121097144" lon="14.27075159465478" alt="0.00000000000000" pitch="-0.065959" bank="0.453887" heading="-171.598230" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject displayName="FenceMetallic_9m 45" groupIndex="144" lat="36.02792011556723" lon="14.27330356928318" alt="0.00000000000000" pitch="0.001981" bank="-0.001981" heading="160.044337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_9m-->
+	<SceneryObject groupIndex="146" lat="36.02793552822178" lon="14.27038216103489" alt="0.00000000000000" pitch="0.000758" bank="-0.000717" heading="-171.597971" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0AF4E8CD-29D2-440F-BB76-88E9E2EDE001}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FireTruck02-->
+	<SceneryObject groupIndex="16" lat="36.02637967940797" lon="14.27257214715240" alt="0.00000000000000" pitch="0.000376" bank="-0.000376" heading="96.705575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{70BF6623-5927-4624-AAE9-96CB9676FD9D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Firetruck01-->
+	<SceneryObject groupIndex="40" lat="36.02663188115213" lon="14.27279929287161" alt="0.00000000000000" pitch="0.000198" bank="-0.000198" heading="-176.347343" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9E16771F-959D-4E02-B2BB-D8379DCE9C2D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RJCK_parking_gates-->
+	<SceneryObject displayName="RJCK_parking_gates 46" groupIndex="15" lat="36.02637360778459" lon="14.27311018887470" alt="-0.06853417577977" pitch="0.274082" bank="-2.000002" heading="107.380361" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{01759850-E29A-483C-B6A8-D25F8C1121AC}" scale="1.419552"/>
+	</SceneryObject>
+	<!--SceneryObject name: RJCK_parking_gates-->
+	<SceneryObject groupIndex="121" lat="36.02721761094283" lon="14.27344236515374" alt="0.00000000000000" pitch="0.974586" bank="-3.021785" heading="107.749431" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{01759850-E29A-483C-B6A8-D25F8C1121AC}" scale="1.144800"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type3_Single-->
+	<SceneryObject groupIndex="60" lat="36.02677513198833" lon="14.27324692098693" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="96.945519" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FCC3FA75-72FA-4DA6-8AFD-FF925A02DEF5}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type3_Single-->
+	<SceneryObject groupIndex="68" lat="36.02680138037947" lon="14.27307192283602" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="96.945519" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FCC3FA75-72FA-4DA6-8AFD-FF925A02DEF5}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type3_Single-->
+	<SceneryObject groupIndex="100" lat="36.02700226289468" lon="14.27330227671162" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-96.945574" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FCC3FA75-72FA-4DA6-8AFD-FF925A02DEF5}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type3_Single-->
+	<SceneryObject groupIndex="107" lat="36.02701947066063" lon="14.27310860651717" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-96.945574" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FCC3FA75-72FA-4DA6-8AFD-FF925A02DEF5}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type5_Double-->
+	<SceneryObject groupIndex="85" lat="36.02690022380209" lon="14.27320701054939" alt="0.00000000000000" pitch="0.000717" bank="-0.000717" heading="96.945403" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7A7F3BD1-FD93-415A-80CB-302D183CA3E7}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: StreetLamp_Type5_Double-->
+	<SceneryObject groupIndex="86" lat="36.02690955366604" lon="14.27311236190137" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="96.945519" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7A7F3BD1-FD93-415A-80CB-302D183CA3E7}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="24" lat="36.02646495185537" lon="14.27282839287175" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="41" lat="36.02663468185570" lon="14.27283302443862" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="48" lat="36.02669400763140" lon="14.27283440747605" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="54" lat="36.02675098948781" lon="14.27284183120975" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="71" lat="36.02681858968192" lon="14.27284401366938" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Dracaena01-->
+	<SceneryObject groupIndex="80" lat="36.02687462548883" lon="14.27284390626151" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AA26526A-E99D-4080-85E0-C201A818B95B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="3" lat="36.02630057263281" lon="14.27301371477077" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="5" lat="36.02631121930271" lon="14.27293862579591" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="6" lat="36.02632027011079" lon="14.27286993300147" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="7" lat="36.02632321238612" lon="14.27279034753895" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="8" lat="36.02632784161816" lon="14.27272638036566" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="9" lat="36.02634225838361" lon="14.27264646481923" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="11" lat="36.02634433505250" lon="14.27256994015519" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject displayName="Tree_Palm01 (copy) (copy)" groupIndex="19" lat="36.02641241538942" lon="14.27303044757282" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject displayName="Tree_Palm01 (copy) (copy) (copy)" groupIndex="20" lat="36.02642167839925" lon="14.27296328463644" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject displayName="Tree_Palm01 (copy) (copy) (copy) (copy)" groupIndex="21" lat="36.02642947923027" lon="14.27288347023098" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject displayName="Tree_Palm01 (copy)" groupIndex="25" lat="36.02649178576158" lon="14.27266491582351" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject displayName="Tree_Palm01 (copy) (copy)" groupIndex="27" lat="36.02650369010374" lon="14.27258645193557" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="29" lat="36.02652524750384" lon="14.27318154323663" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Palm01-->
+	<SceneryObject groupIndex="31" lat="36.02655633710024" lon="14.27319502441523" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{97D8DB4F-21D3-4DE3-B66C-4FB8349E8F75}" scale="0.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Tree_Test01-->
+	<SceneryObject groupIndex="30" lat="36.02654893063091" lon="14.27282714058985" alt="0.00000000000000" pitch="0.000068" bank="-0.000068" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1CE8372E-A309-4657-843D-1156B9E6C738}" scale="0.700000"/>
+	</SceneryObject>
+	<Polygon groupIndex="2" altitude="98.00000000000000">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{1F8A4559-4306-4D71-8BE1-35D316EE74AE}"/>
+		<Vertex lat="36.02720225767955" lon="14.27347696024361"/>
+		<Vertex lat="36.02768353932418" lon="14.27366155875314"/>
+		<Vertex lat="36.02776827083598" lon="14.27368075825069"/>
+		<Vertex lat="36.02806841936954" lon="14.27366765674048"/>
+		<Vertex lat="36.02786633743430" lon="14.27301495089359"/>
+		<Vertex lat="36.02772042425143" lon="14.27253188192113"/>
+		<Vertex lat="36.02775770681324" lon="14.27176053100857"/>
+		<Vertex lat="36.02792465406065" lon="14.27035607266180"/>
+		<Vertex lat="36.02715165208184" lon="14.27023830720207"/>
+		<Vertex lat="36.02695189585052" lon="14.27219081157229"/>
+		<Vertex lat="36.02634227523248" lon="14.27210562628501"/>
+		<Vertex lat="36.02626933899500" lon="14.27306792459522"/>
+		<Vertex lat="36.02667250714715" lon="14.27325306479911"/>
+	</Polygon>
+	<Polygon groupIndex="1" altitude="93.00000000000000">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{997F759D-2D8A-458A-8B9D-DA46F20FD303}"/>
+		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeMSBuildings" guid="{F78A3074-8AD5-4B8B-92C4-C1C948BB7AA5}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeTIN" guid="{18B58CBF-AE02-4A19-8AA9-3809E8E73400}" type="UINT8" value="1"/>
+		<Vertex lat="36.02607183159244" lon="14.27234966938026"/>
+		<Vertex lat="36.02610074244998" lon="14.27260392796442"/>
+		<Vertex lat="36.02630732118588" lon="14.27260937791576"/>
+		<Vertex lat="36.02630678499339" lon="14.27233724800003"/>
+	</Polygon>
+	<Airport groupIndex="149" groupID="1" groupGenerated="FALSE" name="Xewkija Heliport" ident="LMMG" lat="36.02730253894308" lon="14.27188514394468" alt="96.33660800382495" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+		<TaxiwayPoint parentGroupID="1" groupIndex="39" index="7" type="NORMAL" orientation="FORWARD" lat="36.02635142774967" lon="14.27305593770867"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="41" index="6" type="NORMAL" orientation="FORWARD" lat="36.02639273202782" lon="14.27273329027994"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="40" index="10" type="NORMAL" orientation="FORWARD" lat="36.02641703485850" lon="14.27246805992994"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="42" index="5" type="NORMAL" orientation="FORWARD" lat="36.02685233213492" lon="14.27277915178017"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="44" index="4" type="NORMAL" orientation="FORWARD" lat="36.02697963095635" lon="14.27278481063557"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="45" index="11" type="NORMAL" orientation="FORWARD" lat="36.02705649166457" lon="14.27284702609461"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="46" index="3" type="NORMAL" orientation="FORWARD" lat="36.02710030882553" lon="14.27287866275242"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="53" index="0" type="NORMAL" orientation="FORWARD" lat="36.02719455766919" lon="14.27337616367744"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="51" index="14" type="NORMAL" orientation="FORWARD" lat="36.02721085197850" lon="14.27272062042739"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="47" index="2" type="NORMAL" orientation="FORWARD" lat="36.02721379953221" lon="14.27287835768725"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="52" index="1" type="NORMAL" orientation="FORWARD" lat="36.02722218429729" lon="14.27313346669534"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="49" index="12" type="NORMAL" orientation="FORWARD" lat="36.02723897273284" lon="14.27249508698415"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="30" index="13" type="NORMAL" orientation="FORWARD" lat="36.02741619286449" lon="14.27108924785597"/>
+		<TaxiwayParking displayName="Helipad" parentGroupID="1" groupIndex="48" index="8" type="DOCK_GA" lat="36.02720937719466" lon="14.27272570868411" heading="109.637093" radius="9.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Helipad 2" parentGroupID="1" groupIndex="27" index="9" type="DOCK_GA" lat="36.02741162038647" lon="14.27107763259287" heading="-115.855988" radius="9.000000" name="PARKING" number="2" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<TaxiwayPath parentGroupID="1" groupIndex="50" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="14" end="8" width="30.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="29" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="13" end="9" width="30.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="37" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="0" end="1" width="7.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="36" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="1" end="2" width="9.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="35" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="2" end="3" width="12.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="33" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="11" end="4" width="8.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="31" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="4" end="5" width="10.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="25" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="5" end="6" width="11.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="28" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="6" end="7" width="8.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="26" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="6" end="10" width="10.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="32" type="ROAD" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" centerLine="FALSE" start="3" end="11" width="15.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="2" type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="14" end="2" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="1" type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="14" end="12" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="1" groupIndex="3" type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="13" end="12" width="30.000000" weightLimit="0" number="28" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<Runway parentGroupID="1" lat="36.02731077518849" lon="14.27189777453272" alt="115.31725133489817" heading="278.50012207031250" length="130.00000000000000" width="20.00000000000000" patternAltitude="304.79998779296875" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" transparent="FALSE" number="28" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="TRUE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="36.02723002911259" lon="14.27255175729712" alt="115.31497688405216" heading="277.36447143554688"/>
+			<RunwayStart end="SECONDARY" lat="36.02738439241180" lon="14.27126817310626" alt="115.31951589882374" heading="97.36480712890625"/>
+		</Runway>
+		<Helipad parentGroupID="1" groupIndex="55" type="SQUARE" lat="36.02721144864664" lon="14.27271477448799" alt="115.33764863666147" heading="278.500153" length="19.914303" width="19.914303" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Helipad displayName="Helipad (copy)" parentGroupID="1" groupIndex="54" type="SQUARE" lat="36.02741074645296" lon="14.27107807632777" alt="115.33568912930787" heading="278.500153" length="19.914303" width="19.914303" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons>
+			<Apron parentGroupID="1" groupIndex="38" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02718490493602" lon="14.27319417984125"/>
+				<Vertex lat="36.02724713483134" lon="14.27317276154443"/>
+				<Vertex lat="36.02728078922194" lon="14.27299486928835"/>
+				<Vertex lat="36.02730547841961" lon="14.27281680772458"/>
+				<Vertex lat="36.02702036811111" lon="14.27272534219290"/>
+				<Vertex lat="36.02703622138330" lon="14.27288700080996"/>
+				<Vertex lat="36.02703413805196" lon="14.27295266864956"/>
+				<Vertex lat="36.02721907760797" lon="14.27298448820855"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="7" surface="{C2BCE83D-F006-4CC3-AADF-7124D71CFDAB}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1000000001" tiling="4.000000" heading="1.553343" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02703149923534" lon="14.27295696247542"/>
+				<Vertex lat="36.02703549517823" lon="14.27288759296092"/>
+				<Vertex lat="36.02654447198692" lon="14.27286618355093"/>
+				<Vertex lat="36.02653884686975" lon="14.27292525035765"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="9" surface="{83612162-C9A1-4E1E-A783-1A725E9A2B3F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02699579642842" lon="14.27339946844969"/>
+				<Vertex lat="36.02702577074635" lon="14.27305539100756"/>
+				<Vertex lat="36.02680516122272" lon="14.27302112477701"/>
+				<Vertex lat="36.02676642223447" lon="14.27329619481091"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="34" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02675130782074" lon="14.27282690890580"/>
+				<Vertex lat="36.02675339323903" lon="14.27270931192385"/>
+				<Vertex lat="36.02702117040921" lon="14.27272569411954"/>
+				<Vertex lat="36.02702147446674" lon="14.27274792185620"/>
+				<Vertex lat="36.02706833308998" lon="14.27274999795721"/>
+				<Vertex lat="36.02705957177204" lon="14.27288583556086"/>
+				<Vertex lat="36.02691250431095" lon="14.27287607210096"/>
+				<Vertex lat="36.02691307380802" lon="14.27283299307480"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="8" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02730142863838" lon="14.27284371255059"/>
+				<Vertex lat="36.02710938335268" lon="14.27280589855681"/>
+				<Vertex lat="36.02711200803992" lon="14.27278686849175"/>
+				<Vertex lat="36.02706157045316" lon="14.27278301269383"/>
+				<Vertex lat="36.02703496902348" lon="14.27288405784116"/>
+				<Vertex lat="36.02703222267587" lon="14.27294987316166"/>
+				<Vertex lat="36.02727998861133" lon="14.27299504092926"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="57" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02711527503509" lon="14.27280159236202"/>
+				<Vertex lat="36.02728346452381" lon="14.27283158706240"/>
+				<Vertex lat="36.02730601970832" lon="14.27262492444694"/>
+				<Vertex lat="36.02714119778068" lon="14.27259707351023"/>
+			</Apron>
+			<Apron displayName="Apron (copy)" parentGroupID="1" groupIndex="56" surface="{141FA97F-4B4F-477E-848D-989CC534031B}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="36.02731692709952" lon="14.27116548697743"/>
+				<Vertex lat="36.02748130242724" lon="14.27119634623885"/>
+				<Vertex lat="36.02750478491287" lon="14.27099391432197"/>
+				<Vertex lat="36.02734041632390" lon="14.27096318472514"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="43" surface="{2AD36D81-1AC4-4347-8F42-CBA291472C3E}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="1000000001" tiling="25.000000" heading="3.085593" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="36.02688364345858" lon="14.27279682055717"/>
+				<Vertex lat="36.02688532314158" lon="14.27275993386303"/>
+				<Vertex lat="36.02691528642475" lon="14.27276200165273"/>
+				<Vertex lat="36.02691360674113" lon="14.27279888836080"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements>
+			<PaintedLine displayName="PaintedLine 1" parentGroupID="1" groupIndex="21" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02677190714920" lon="14.27326385974875"/>
+				<Vertex lat="36.02680972030554" lon="14.27327152728897"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 2" parentGroupID="1" groupIndex="22" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02677751255479" lon="14.27323612662800"/>
+				<Vertex lat="36.02681532571113" lon="14.27324379416823"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 3" parentGroupID="1" groupIndex="20" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02678190513642" lon="14.27320428381583"/>
+				<Vertex lat="36.02682027000954" lon="14.27321275900441"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 4" parentGroupID="1" groupIndex="15" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02678669396339" lon="14.27317660067365"/>
+				<Vertex lat="36.02682510670682" lon="14.27318408656671"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 5" parentGroupID="1" groupIndex="19" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02679248237810" lon="14.27314293360684"/>
+				<Vertex lat="36.02682990813798" lon="14.27314979390797"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 6" parentGroupID="1" groupIndex="18" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02679611072586" lon="14.27311540004722"/>
+				<Vertex lat="36.02683357575577" lon="14.27312299622751"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 7" parentGroupID="1" groupIndex="17" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02680074178784" lon="14.27309153818241"/>
+				<Vertex lat="36.02683789291570" lon="14.27309952692579"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 8" parentGroupID="1" groupIndex="16" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02680501314480" lon="14.27306078748772"/>
+				<Vertex lat="36.02684328606883" lon="14.27306886367335"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 9" parentGroupID="1" groupIndex="23" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02686286607831" lon="14.27323455603670"/>
+				<Vertex lat="36.02692487585634" lon="14.27324271905133"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 10" parentGroupID="1" groupIndex="14" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02686675358742" lon="14.27320184608100"/>
+				<Vertex lat="36.02692697741409" lon="14.27321058995410"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 11" parentGroupID="1" groupIndex="13" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02687157767896" lon="14.27317106031258"/>
+				<Vertex lat="36.02693181251514" lon="14.27318097797780"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="1" groupIndex="24" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02691703692578" lon="14.27304526367854"/>
+				<Vertex lat="36.02689309506359" lon="14.27327506484518"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 12" parentGroupID="1" groupIndex="12" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02687484236375" lon="14.27313809378466"/>
+				<Vertex lat="36.02693540961756" lon="14.27314941914985"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine 13" parentGroupID="1" groupIndex="11" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02687847508191" lon="14.27310982061859"/>
+				<Vertex lat="36.02693904233572" lon="14.27312114598378"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="1" groupIndex="10" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02688261451801" lon="14.27307504783075"/>
+				<Vertex lat="36.02694318177182" lon="14.27308637319594"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="1" groupIndex="6" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+				<Vertex lat="36.02691452679653" lon="14.27282731413074"/>
+				<Vertex lat="36.02691640515952" lon="14.27276102238783"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="1" groupIndex="4" type="DEFAULT" trueAngle="NONE" surface="{E2EE94A8-0D7B-4961-9FE0-AE2C0502AD80}">
+				<Vertex lat="36.02716711809860" lon="14.27277025578229"/>
+				<Vertex lat="36.02718418184080" lon="14.27277340751384"/>
+				<Vertex lat="36.02719188516190" lon="14.27272361421583"/>
+				<Vertex lat="36.02722465353157" lon="14.27273072204634"/>
+				<Vertex lat="36.02721826935853" lon="14.27277759064027"/>
+				<Vertex lat="36.02723744710270" lon="14.27278240612109"/>
+				<Vertex lat="36.02725180467526" lon="14.27266213604801"/>
+				<Vertex lat="36.02723269527525" lon="14.27265900283439"/>
+				<Vertex lat="36.02722668952351" lon="14.27271127817897"/>
+				<Vertex lat="36.02719307227822" lon="14.27270477480068"/>
+				<Vertex lat="36.02719949182877" lon="14.27265180607367"/>
+				<Vertex lat="36.02718046540985" lon="14.27264868015666"/>
+				<Vertex lat="36.02716652320473" lon="14.27277058231419"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="1" groupIndex="5" type="DEFAULT" trueAngle="NONE" surface="{E2EE94A8-0D7B-4961-9FE0-AE2C0502AD80}">
+				<Vertex lat="36.02736692193721" lon="14.27113429402136"/>
+				<Vertex lat="36.02738354259718" lon="14.27113741408251"/>
+				<Vertex lat="36.02739123569835" lon="14.27108762464468"/>
+				<Vertex lat="36.02742445737018" lon="14.27109476028540"/>
+				<Vertex lat="36.02741807319715" lon="14.27114162887934"/>
+				<Vertex lat="36.02743680766435" lon="14.27114550852327"/>
+				<Vertex lat="36.02745163113012" lon="14.27102659065011"/>
+				<Vertex lat="36.02743296497113" lon="14.27102406828594"/>
+				<Vertex lat="36.02742654840119" lon="14.27107515316161"/>
+				<Vertex lat="36.02739293169157" lon="14.27106960073181"/>
+				<Vertex lat="36.02739877319092" lon="14.27101599630156"/>
+				<Vertex lat="36.02738026924846" lon="14.27101271839573"/>
+				<Vertex lat="36.02736632704335" lon="14.27113462055325"/>
+			</PaintedLine>
+		</PaintedElements>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+	</Airport>
+</FSData>
+
