@@ -3,20 +3,20 @@
     {
       "path": "ContentInfo/vikingstudios-airport-lmmg-xewkija/ContentHistory.json",
       "size": 158,
-      "date": 133517935101394233
+      "date": 133606815920797696
     },
     {
       "path": "ContentInfo/vikingstudios-airport-lmmg-xewkija/Thumbnail.jpg",
-      "size": 73670,
-      "date": 132612265730000000
+      "size": 40879,
+      "date": 133606809194613370
     },
     {
       "path": "MaterialLibs/textures/Library.xml",
       "size": 3274,
-      "date": 133517935081519394
+      "date": 133606809785034365
     },
     {
-      "path": "MaterialLibs/textures/Textures/black.png.DDS",
+      "path": "MaterialLibs/textures/Textures/BLACK.PNG.DDS",
       "size": 349700,
       "date": 132615836730000000
     },
@@ -26,12 +26,12 @@
       "date": 132615837120000000
     },
     {
-      "path": "MaterialLibs/textures/Textures/black.png.DDS.json",
+      "path": "MaterialLibs/textures/Textures/BLACK.PNG.DDS.json",
       "size": 199,
       "date": 132615836730000000
     },
     {
-      "path": "MaterialLibs/textures/Textures/pathway.jpg.DDS",
+      "path": "MaterialLibs/textures/Textures/PATHWAY.JPG.DDS",
       "size": 22369796,
       "date": 132613022960000000
     },
@@ -41,12 +41,12 @@
       "date": 132613023710000000
     },
     {
-      "path": "MaterialLibs/textures/Textures/pathway.jpg.DDS.json",
+      "path": "MaterialLibs/textures/Textures/PATHWAY.JPG.DDS.json",
       "size": 232,
       "date": 132613022960000000
     },
     {
-      "path": "MaterialLibs/textures/Textures/STOP.png.DDS",
+      "path": "MaterialLibs/textures/Textures/STOP.PNG.DDS",
       "size": 2766372,
       "date": 132613015850000000
     },
@@ -56,14 +56,14 @@
       "date": 132613017600000000
     },
     {
-      "path": "MaterialLibs/textures/Textures/STOP.png.DDS.json",
+      "path": "MaterialLibs/textures/Textures/STOP.PNG.DDS.json",
       "size": 198,
       "date": 132613015850000000
     },
     {
       "path": "scenery/lmmgscn.bgl",
-      "size": 13094,
-      "date": 133517935081444184
+      "size": 13024,
+      "date": 133606815920727551
     }
   ]
 }
